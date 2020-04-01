@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 昊天的博客</title>
-    <link>https://github.com/h666t/h666t.github.io/posts/</link>
+    <link>github.com/h666t/posts/</link>
     <description>Recent content in Posts on 昊天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Tue, 31 Mar 2020 22:18:03 +0800</lastBuildDate>
     
-	<atom:link href="https://github.com/h666t/h666t.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="github.com/h666t/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何用 hugo 搭建个人博客</title>
-      <link>https://github.com/h666t/h666t.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>github.com/h666t/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Tue, 31 Mar 2020 22:18:03 +0800</pubDate>
       
-      <guid>https://github.com/h666t/h666t.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>github.com/h666t/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>如何用 hugo 搭建个人博客 什么是hugo？
 hugo是一个用Go语言实现的一个博客生成器，我们可以使用hugo搭建一个属于我 们自己的博客网站。
 使用hugo搭建个人博客需要以下几步操作：
@@ -27,19 +27,19 @@ hugo是一个用Go语言实现的一个博客生成器，我们可以使用hugo�
     
     <item>
       <title>又见面了</title>
-      <link>https://github.com/h666t/h666t.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%892/</link>
+      <link>github.com/h666t/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%892/</link>
       <pubDate>Tue, 31 Mar 2020 10:48:03 +0800</pubDate>
       
-      <guid>https://github.com/h666t/h666t.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%892/</guid>
+      <guid>github.com/h666t/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%892/</guid>
       <description>又见面了 </description>
     </item>
     
     <item>
       <title>开博大吉</title>
-      <link>https://github.com/h666t/h666t.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>github.com/h666t/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Tue, 31 Mar 2020 10:48:03 +0800</pubDate>
       
-      <guid>https://github.com/h666t/h666t.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>github.com/h666t/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>大家好，我的博客开通了 </description>
     </item>
     
